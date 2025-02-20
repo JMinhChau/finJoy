@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#FF4CAF50</color>
+    <color name="red">#FFF44336</color>
+    <color name="dark_gray">#666666</color>
+    <color name="blue">#2196F3</color>
+    <color name="orange">#FF9800</color>
+    <color name="teal">#009688</color>
+    <color name="purple">#9C27B0</color>
+    <color name="cyan">#00BCD4</color>
+    <color name="brown">#795548</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="yellow">#FFBB33</color>
+    <color name="pink">#FF4081</color>
+    <color name="coral">#FF7F50</color>
+    <color name="ruby">#E0115F</color>
+    <color name="amber">#FFBF00</color>
+    <color name="red_light">#FF6B6B</color>
+
+    <!-- Income base colors -->
+    <color name="income_primary">#4CAF50</color>
+    <color name="income_secondary">#81C784</color>
+    <color name="income_tertiary">#66BB6A</color>
+
+    <!-- Color bank for new expense categories -->
+    <color name="expense_1">#D32F2F</color>  <!-- Deep Red -->
+    <color name="expense_2">#FF5722</color>  <!-- Deep Orange -->
+    <color name="expense_3">#FF4F6F</color>  <!-- Coral Pink -->
+    <color name="expense_4">#BF360C</color>  <!-- Warm Brown -->
+    <color name="expense_5">#C62828</color>  <!-- Dark Red -->
+    <color name="expense_6">#B71C1C</color>  <!-- Maroon -->
+    <color name="expense_7">#DD2C00</color>  <!-- Rust -->
+    <color name="expense_8">#880E4F</color>  <!-- Burgundy -->
+
+    <!-- Color bank for new income categories -->
+    <color name="income_1">#2E7D32</color>   <!-- Forest Green -->
+    <color name="income_2">#00C853</color>   <!-- Emerald -->
+    <color name="income_3">#00BFA5</color>   <!-- Mint -->
+    <color name="income_4">#558B2F</color>   <!-- Sage -->
+    <color name="income_5">#33691E</color>   <!-- Olive -->
+    <color name="income_6">#64DD17</color>   <!-- Lime -->
+</resources>

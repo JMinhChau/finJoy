@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FinJoy</string>
+    <string name="edit_transaction">Edit Transaction</string>
+    <string name="save_changes">Save Changes</string>
+</resources>
