@@ -29,10 +29,10 @@ To install FinJoy, follow these steps:
 
 ## Screenshots
 
-![FinJoy Screenshot 1](https://raw.githubusercontent.com/JMinhChau/finJoy/refs/heads/master/screenshots/aca24bddf91d43431a0c.jpg?token=GHSAT0AAAAAAC7IZHLPY6OKNQMBUPU6CZWYZ5XCN2A)
-![FinJoy Screenshot 2](https://raw.githubusercontent.com/JMinhChau/finJoy/refs/heads/master/screenshots/a07a931a21da9b84c2cb.jpg?token=GHSAT0AAAAAAC7IZHLOGOBBHNZR44RNXP2WZ5XCK7Q)
-![FinJoy Screenshot 3](https://raw.githubusercontent.com/JMinhChau/finJoy/refs/heads/master/screenshots/26e12a39a3f919a740e8.jpg?token=GHSAT0AAAAAAC7IZHLPRKOOBMACALZDMJTOZ5XCJBQ)
-![FinJoy Screenshot 4](https://raw.githubusercontent.com/JMinhChau/finJoy/refs/heads/master/screenshots/6e84191691d62b8872c7.jpg?token=GHSAT0AAAAAAC7IZHLOEJE2OLVZTIGQSO6WZ5XCOGA)
+![FinJoy Screenshot 1](https://raw.githubusercontent.com/JMinhChau/finJoy/refs/heads/master/screenshots/aca24bddf91d43431a0c.jpg)
+![FinJoy Screenshot 2](https://raw.githubusercontent.com/JMinhChau/finJoy/refs/heads/master/screenshots/a07a931a21da9b84c2cb.jpg)
+![FinJoy Screenshot 3](https://raw.githubusercontent.com/JMinhChau/finJoy/refs/heads/master/screenshots/26e12a39a3f919a740e8.jpg)
+![FinJoy Screenshot 4](https://raw.githubusercontent.com/JMinhChau/finJoy/refs/heads/master/screenshots/6e84191691d62b8872c7.jpg)
 
 ## Contributing
 If you’d like to contribute, feel free to submit a pull request or suggest improvements in the Issues tab.
