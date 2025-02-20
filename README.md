@@ -31,8 +31,10 @@ To install FinJoy, follow these steps:
 
 ## Screenshots
 
-![FinJoy Screenshot 1](https://raw.githubusercontent.com/JMinhChau/finJoy/main/screenshots/screenshot1.png)
-![FinJoy Screenshot 2](https://raw.githubusercontent.com/JMinhChau/finJoy/main/screenshots/screenshot2.png)
+![FinJoy Screenshot 1](https://raw.githubusercontent.com/JMinhChau/finJoy/main/screenshots/aca24bddf91d43431a0c.jpg)
+![FinJoy Screenshot 2](https://raw.githubusercontent.com/JMinhChau/finJoy/main/screenshots/a07a931a21da9b84c2cb.jpg)
+![FinJoy Screenshot 3](https://raw.githubusercontent.com/JMinhChau/finJoy/main/screenshots/26e12a39a3f919a740e8.jpg)
+![FinJoy Screenshot 4](https://raw.githubusercontent.com/JMinhChau/finJoy/main/screenshots/6e84191691d62b8872c7.jpg)
 
 ## Contributing
 If you’d like to contribute, feel free to submit a pull request or suggest improvements in the Issues tab.
